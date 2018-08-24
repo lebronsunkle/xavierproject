@@ -1,0 +1,35 @@
++++
+title    = 'Artists Only Got 12% Of The $43 Billion That The Music Industry Generated In 2017'
+
+writer   = 'Adam Flores'
+
+date     = "2018-08-08T00:00:00"
+
+image    = 'images/25.news.08-08-18.png'
+
+credits  = 'JC Clapper'
+
+
+
+disqusid = '25'
+
+categories = 'News'
+
+tags = ["playlist", "house"]
+
+description = 'When this first study was conducted, artists only earned 7% of the profits, so an extra 5% is a step in the right direction. '
+
+spotify    = ''
+applemusic = ''
+bandcamp   = ''
+soundcloud = ''
+youtube    = ''
+
++++
+Citigroup published a report on Monday led by analyst Jason B. Bazinet, that musicians only received 12% of the $43 billion the music industry made in 2017. According to the report, that $43 billion matches a peak that the industry had not hit since 2006. 
+
+Although, this substantial increase has come from a huge trend of touring and hard work from the musicians themselves, and may be the only reason the label executives are back at their all time high. In addition, artists are  still only taking home a skimpy share of increasing revenues in streaming for their music. Going independent allows artists full freedom over their work and profits, but with no label or industry connections it is nearly impossible to get music put on playlists, where your music can be discovered by the masses. 
+
+The report predicts that "organic forms of vertical integration" in the industry, where the main streaming providers like Spotify and Apple Music could "organically morph into music labels," allowing artists to capture more of their music's value by releasing their work directly with the services.
+
+If you want to support your favorite artists, make sure to buy their albums and merchandise. Sites like Bandcamp take a minimal fee on transactions and are pro artist unlike iTunes who takes around 30% per sale. And soon enough, Sypher will play a part in supporting artists the best way we can.
